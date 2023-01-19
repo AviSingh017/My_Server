@@ -154,5 +154,21 @@
       "rating": "3.9 out of 5 stars",
       "price": 25999
     }
+  ],
+  "Furniture":[
+    {
+      "id": 1,
+      "image": "https://m.media-amazon.com/images/I/81Bf1rWLA+L._AC_UY218_.jpg",
+      "title": "Samsung Galaxy M53 5G (Emerald Brown, 8GB, 128GB Storage) | 108MP | sAmoled+ 120Hz | 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "3.9 out of 5 stars",
+      "price": 25999
+    },
+    {
+      "id": 2,
+      "image": "https://m.media-amazon.com/images/I/81Bf1rWLA+L._AC_UY218_.jpg",
+      "title": "Samsung Galaxy M53 5G (Emerald Brown, 8GB, 128GB Storage) | 108MP | sAmoled+ 120Hz | 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "3.9 out of 5 stars",
+      "price": 25999
+    }
   ]
 }
