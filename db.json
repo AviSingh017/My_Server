@@ -1,9 +1,158 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Mobile":[
+    {
+      "id": 1,
+      "image": "https://m.media-amazon.com/images/I/812yohjGZ2L._AC_UY218_.jpg",
+      "title": "Samsung Galaxy S20 FE 5G (Cloud Mint, 8GB RAM, 128GB Storage)",
+      "rating": "4.2 out of 5 stars",
+      "price": 29990
+    },
+    {
+      "id": 2,
+      "image": "https://m.media-amazon.com/images/I/71yTvU9VgdL._AC_UY218_.jpg",
+      "title": "Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | 33W Charger Included",
+      "rating": "4.1 out of 5 stars",
+      "price": 12499
+    },
+    {
+      "id": 3,
+      "image": "https://m.media-amazon.com/images/I/810KHyQ4WcL._AC_UY218_.jpg",
+      "title": "Redmi 9A Sport (Coral Green, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+      "rating": "4.1 out of 5 stars",
+      "price": 6699
+    },
+    {
+      "id": 4,
+      "image": "https://m.media-amazon.com/images/I/81UT07JsBqL._AC_UY218_.jpg",
+      "title": "Redmi A1 (Light Blue, 2GB RAM, 32GB Storage) | Segment Best AI Dual Cam | 5000mAh Battery | Leather Texture Design | Android 12",
+      "rating": "4.0 out of 5 stars",
+      "price": 5699
+    },
+    {
+      "id": 5,
+      "image": "https://m.media-amazon.com/images/I/81HJ4pkOsiL._AC_UY218_.jpg",
+      "title": "realme narzo 50i (Carbon Black, 2GB RAM+32GB Storage) Octa Core Processor | 6.5\" inch Large Display",
+      "rating": "4.0 out of 5 stars",
+      "price": 6499
+    },
+    {
+      "id": 6,
+      "image": "https://m.media-amazon.com/images/I/71geVdy6-OS._AC_UY218_.jpg",
+      "title": "OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "rating": "4.2 out of 5 stars",
+      "price": 14990
+    },
+    {
+      "id": 7,
+      "image": "https://m.media-amazon.com/images/I/71KCwNV6MuL._AC_UY218_.jpg",
+      "title": "OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "rating": "4.2 out of 5 stars",
+      "price": 11990
+    },
+    {
+      "id": 8,
+      "image": "https://m.media-amazon.com/images/I/81-fFXQdPTL._AC_UY218_.jpg",
+      "title": "Samsung Galaxy M13 (Aqua Green, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+      "rating": "4.1 out of 5 stars",
+      "price": 10999
+    },
+    {
+      "id": 9,
+      "image": "https://m.media-amazon.com/images/I/81QqVNKWtML._AC_UY218_.jpg",
+      "title": "realme narzo 50i (Mint Green, 2GB RAM+32GB Storage) Octa Core Processor | 6.5\" inch Large Display",
+      "rating": "4.0 out of 5 stars",
+      "price": 6499
+    },
+    {
+      "id": 10,
+      "image": "https://m.media-amazon.com/images/I/81gRC3KTeaL._AC_UY218_.jpg",
+      "title": "realme narzo 50 (Speed Blue, 4GB RAM+64GB Storage) 120Hz Full HD+ Display | 50MP AI Triple Camera | Helio G96 Powerful Gaming Processor",
+      "rating": "4.2 out of 5 stars",
+      "price": 9999
+    },
+    {
+      "id": 11,
+      "image": "https://m.media-amazon.com/images/I/81lAth+jv+L._AC_UY218_.jpg",
+      "title": "Redmi 11 Prime 5G (Thunder Black, 4GB RAM, 64GB Storage) | Prime Design | MTK Dimensity 700 | 50 MP Dual Cam | 5000mAh | 7 Band 5G",
+      "rating": "3.9 out of 5 stars",
+      "price": 12999
+    },
+    {
+      "id": 12,
+      "image": "https://m.media-amazon.com/images/I/81E8fhm0dcL._AC_UY218_.jpg",
+      "title": "Redmi Note 12 5G Mystique Blue 4GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+      "rating": "",
+      "price": 17999
+    },
+    {
+      "id": 13,
+      "image": "https://m.media-amazon.com/images/I/71t7mcs1VoL._AC_UY218_.jpg",
+      "title": "Redmi 10A Sport (Slate Grey, 6GB RAM, 128GB Storage) | 2 Ghz Octa Cor Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 8GB RAM with RAM Booster",
+      "rating": "3.7 out of 5 stars",
+      "price": 9999
+    },
+    {
+      "id": 14,
+      "image": "https://m.media-amazon.com/images/I/71kVEmAMyEL._AC_UY218_.jpg",
+      "title": "Redmi 10A (Slate Grey, 4GB RAM, 64GB Storage) | 2 Ghz Octa Core Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 5GB RAM with RAM Booster",
+      "rating": "4.0 out of 5 stars",
+      "price": 8299
+    },
+    {
+      "id": 15,
+      "image": "https://m.media-amazon.com/images/I/71poFSdDs5S._AC_UY218_.jpg",
+      "title": "OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+      "rating": "4.2 out of 5 stars",
+      "price": 14990
+    },
+    {
+      "id": 16,
+      "image": "https://m.media-amazon.com/images/I/71Ta0Hcl+PL._AC_UY218_.jpg",
+      "title": "Redmi 10A Sport (Sea Blue, 6GB RAM, 128GB Storage) | 2 Ghz Octa Cor Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 8GB RAM with RAM Booster",
+      "rating": "3.7 out of 5 stars",
+      "price": 9999
+    },
+    {
+      "id": 17,
+      "image": "https://m.media-amazon.com/images/I/61ST4CMWEKL._AC_UY218_.jpg",
+      "title": "iQOO Z6 44W by vivo (Raven Black, 6GB RAM, 128GB Storage) | 6.44\" FHD+ AMOLED Display | 50% Charge in just 27 mins | in-Display Fingerprint Scanning",
+      "rating": "4.1 out of 5 stars",
+      "price": 15499
+    },
+    {
+      "id": 18,
+      "image": "https://m.media-amazon.com/images/I/61SpA599GgL._AC_UY218_.jpg",
+      "title": "iQOO Z6 5G by vivo (Dynamo Black, 6GB RAM, 128GB Storage) | Snapdragon 695-6nm Processor | 120Hz FHD+ Display | 5000mAh Battery",
+      "rating": "4.0 out of 5 stars",
+      "price": 16499
+    },
+    {
+      "id": 19,
+      "image": "https://m.media-amazon.com/images/I/71AWvZMY6LL._AC_UY218_.jpg",
+      "title": "Tecno Spark 8T (Atlantic Blue, 4GB RAM,64GB Storage)| 50MP AI Camera | 7GB Expandable RAM",
+      "rating": "4.1 out of 5 stars",
+      "price": 8499
+    },
+    {
+      "id": 20,
+      "image": "https://m.media-amazon.com/images/I/71TFnrSIs-L._AC_UY218_.jpg",
+      "title": "Oppo F21s Pro 5G (Starlight Black, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers",
+      "rating": "4.0 out of 5 stars",
+      "price": 25999
+    },
+    {
+      "id": 21,
+      "image": "https://m.media-amazon.com/images/I/81OZGH4fZiL._AC_UY218_.jpg",
+      "title": "Redmi 10 Power (Sporty Orange, 8GB RAM, 128GB Storage)",
+      "rating": "4.1 out of 5 stars",
+      "price": 11499
+    },
+    {
+      "id": 22,
+      "image": "https://m.media-amazon.com/images/I/81Bf1rWLA+L._AC_UY218_.jpg",
+      "title": "Samsung Galaxy M53 5G (Emerald Brown, 8GB, 128GB Storage) | 108MP | sAmoled+ 120Hz | 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
+      "rating": "3.9 out of 5 stars",
+      "price": 25999
+    }
+  ]
 }
