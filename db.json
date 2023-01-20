@@ -2,157 +2,643 @@
   "Mobile":[
     {
       "id": 1,
-      "image": "https://m.media-amazon.com/images/I/812yohjGZ2L._AC_UY218_.jpg",
-      "title": "Samsung Galaxy S20 FE 5G (Cloud Mint, 8GB RAM, 128GB Storage)",
-      "rating": "4.2 out of 5 stars",
-      "price": 29990
+      "image": "https://cdn1.smartprix.com/rx-iySvpQ2UU-w280-h280/leeco-s1-pro.webp",
+      "title": "LeEco S1 Pro",
+      "price": 10999,
+      "rating": 65,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
     },
     {
       "id": 2,
-      "image": "https://m.media-amazon.com/images/I/71yTvU9VgdL._AC_UY218_.jpg",
-      "title": "Redmi Note 11 (Space Black, 6GB RAM, 64GB Storage) | 90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | 33W Charger Included",
-      "rating": "4.1 out of 5 stars",
-      "price": 12499
+      "image": "https://cdn1.smartprix.com/rx-ixLSVBm6G-w280-h280/samsung-galaxy-a14-5.webp",
+      "title": "Samsung Galaxy A14 5G",
+      "price": 16499,
+      "rating": 75,
+      "image2": "https://cdn1.smartprix.com/rx-ircJXXuPY-w32-h32/samsung.webp"
     },
     {
       "id": 3,
-      "image": "https://m.media-amazon.com/images/I/810KHyQ4WcL._AC_UY218_.jpg",
-      "title": "Redmi 9A Sport (Coral Green, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
-      "rating": "4.1 out of 5 stars",
-      "price": 6699
+      "image": "https://cdn1.smartprix.com/rx-iGNlyOFEo-w280-h280/oneplus-nord-ce-2-li.webp",
+      "title": "OnePlus Nord CE 2 Lite 5G",
+      "price": 18999,
+      "rating": 81,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
     },
     {
       "id": 4,
-      "image": "https://m.media-amazon.com/images/I/81UT07JsBqL._AC_UY218_.jpg",
-      "title": "Redmi A1 (Light Blue, 2GB RAM, 32GB Storage) | Segment Best AI Dual Cam | 5000mAh Battery | Leather Texture Design | Android 12",
-      "rating": "4.0 out of 5 stars",
-      "price": 5699
+      "image": "https://cdn1.smartprix.com/rx-icB47WnHZ-w280-h280/xiaomi-redmi-note-12.webp",
+      "title": "Xiaomi Redmi Note 12 Pro Plus",
+      "price": 29999,
+      "rating": 86,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
     },
     {
       "id": 5,
-      "image": "https://m.media-amazon.com/images/I/81HJ4pkOsiL._AC_UY218_.jpg",
-      "title": "realme narzo 50i (Carbon Black, 2GB RAM+32GB Storage) Octa Core Processor | 6.5\" inch Large Display",
-      "rating": "4.0 out of 5 stars",
-      "price": 6499
+      "image": "https://cdn1.smartprix.com/rx-iDFsvLEDT-w280-h280/xiaomi-redmi-note-12.webp",
+      "title": "Xiaomi Redmi Note 12 Pro 5G",
+      "price": 24999,
+      "rating": 79,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
     },
     {
       "id": 6,
-      "image": "https://m.media-amazon.com/images/I/71geVdy6-OS._AC_UY218_.jpg",
-      "title": "OPPO A74 5G (Fantastic Purple,6GB RAM,128GB Storage) with No Cost EMI/Additional Exchange Offers",
-      "rating": "4.2 out of 5 stars",
-      "price": 14990
+      "image": "https://cdn1.smartprix.com/rx-iq4Ry8Vd6-w280-h280/samsung-galaxy-f23-5.webp",
+      "title": "Samsung Galaxy F23 5G (6GB RAM + 128GB)",
+      "price": 14999,
+      "rating": 80,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
     },
     {
       "id": 7,
-      "image": "https://m.media-amazon.com/images/I/71KCwNV6MuL._AC_UY218_.jpg",
-      "title": "OPPO A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
-      "rating": "4.2 out of 5 stars",
-      "price": 11990
+      "image": "https://cdn1.smartprix.com/rx-iab0UrrCY-w280-h280/oneplus-11-5g.webp",
+      "title": "OnePlus 11 5G",
+      "price": 47999,
+      "rating": 89,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
     },
     {
       "id": 8,
-      "image": "https://m.media-amazon.com/images/I/81-fFXQdPTL._AC_UY218_.jpg",
-      "title": "Samsung Galaxy M13 (Aqua Green, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
-      "rating": "4.1 out of 5 stars",
-      "price": 10999
+      "image": "https://cdn1.smartprix.com/rx-iADfJflhU-w280-h280/realme-10-pro.webp",
+      "title": "Realme 10 Pro",
+      "price": 18999,
+      "rating": 82,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
     },
     {
       "id": 9,
-      "image": "https://m.media-amazon.com/images/I/81QqVNKWtML._AC_UY218_.jpg",
-      "title": "realme narzo 50i (Mint Green, 2GB RAM+32GB Storage) Octa Core Processor | 6.5\" inch Large Display",
-      "rating": "4.0 out of 5 stars",
-      "price": 6499
+      "image": "https://cdn1.smartprix.com/rx-iCDx5JIUn-w280-h280/motorola-moto-g62-5g.webp",
+      "title": "Motorola Moto G62 5G",
+      "price": 14999,
+      "rating": 81,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
     },
     {
       "id": 10,
-      "image": "https://m.media-amazon.com/images/I/81gRC3KTeaL._AC_UY218_.jpg",
-      "title": "realme narzo 50 (Speed Blue, 4GB RAM+64GB Storage) 120Hz Full HD+ Display | 50MP AI Triple Camera | Helio G96 Powerful Gaming Processor",
-      "rating": "4.2 out of 5 stars",
-      "price": 9999
+      "image": "https://cdn1.smartprix.com/rx-iKWyXqzam-w280-h280/realme-10-pro-plus.webp",
+      "title": "Realme 10 Pro Plus",
+      "price": 24999,
+      "rating": 82,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
     },
     {
       "id": 11,
-      "image": "https://m.media-amazon.com/images/I/81lAth+jv+L._AC_UY218_.jpg",
-      "title": "Redmi 11 Prime 5G (Thunder Black, 4GB RAM, 64GB Storage) | Prime Design | MTK Dimensity 700 | 50 MP Dual Cam | 5000mAh | 7 Band 5G",
-      "rating": "3.9 out of 5 stars",
-      "price": 12999
+      "image": "https://cdn1.smartprix.com/rx-iiwv5EJze-w280-h280/nothing-phone-1.webp",
+      "title": "Nothing Phone 1",
+      "price": 25999,
+      "rating": 85,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
     },
     {
       "id": 12,
-      "image": "https://m.media-amazon.com/images/I/81E8fhm0dcL._AC_UY218_.jpg",
-      "title": "Redmi Note 12 5G Mystique Blue 4GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
-      "rating": "",
-      "price": 17999
+      "image": "https://cdn1.smartprix.com/rx-iNeAizQdS-w280-h280/oppo-a78.webp",
+      "title": "Oppo A78",
+      "price": 18999,
+      "rating": 79,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
     },
     {
       "id": 13,
-      "image": "https://m.media-amazon.com/images/I/71t7mcs1VoL._AC_UY218_.jpg",
-      "title": "Redmi 10A Sport (Slate Grey, 6GB RAM, 128GB Storage) | 2 Ghz Octa Cor Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 8GB RAM with RAM Booster",
-      "rating": "3.7 out of 5 stars",
-      "price": 9999
+      "image": "https://cdn1.smartprix.com/rx-ides4J9tl-w280-h280/apple-iphone-13.webp",
+      "title": "Apple iPhone 13",
+      "price": 60999,
+      "rating": 79,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
     },
     {
       "id": 14,
-      "image": "https://m.media-amazon.com/images/I/71kVEmAMyEL._AC_UY218_.jpg",
-      "title": "Redmi 10A (Slate Grey, 4GB RAM, 64GB Storage) | 2 Ghz Octa Core Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 5GB RAM with RAM Booster",
-      "rating": "4.0 out of 5 stars",
-      "price": 8299
+      "image": "https://cdn1.smartprix.com/rx-iVTSdrBOM-w280-h280/xiaomi-redmi-note-12.webp",
+      "title": "Xiaomi Redmi Note 12",
+      "price": 17999,
+      "rating": 76,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
     },
     {
       "id": 15,
-      "image": "https://m.media-amazon.com/images/I/71poFSdDs5S._AC_UY218_.jpg",
-      "title": "OPPO A74 5G (Fluid Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
-      "rating": "4.2 out of 5 stars",
-      "price": 14990
+      "image": "https://cdn1.smartprix.com/rx-iKfFMUC30-w280-h280/oneplus-nord-2t-5g.webp",
+      "title": "OnePlus Nord 2T 5G",
+      "price": 28998,
+      "rating": 84,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
     },
     {
       "id": 16,
-      "image": "https://m.media-amazon.com/images/I/71Ta0Hcl+PL._AC_UY218_.jpg",
-      "title": "Redmi 10A Sport (Sea Blue, 6GB RAM, 128GB Storage) | 2 Ghz Octa Cor Helio G25 | 5000 mAh Battery | Finger Print Sensor | Upto 8GB RAM with RAM Booster",
-      "rating": "3.7 out of 5 stars",
-      "price": 9999
+      "image": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w280-h280/samsung-galaxy-s21-f.webp",
+      "title": "Samsung Galaxy S21 FE 5G",
+      "price": 34999,
+      "rating": 87,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
     },
     {
       "id": 17,
-      "image": "https://m.media-amazon.com/images/I/61ST4CMWEKL._AC_UY218_.jpg",
-      "title": "iQOO Z6 44W by vivo (Raven Black, 6GB RAM, 128GB Storage) | 6.44\" FHD+ AMOLED Display | 50% Charge in just 27 mins | in-Display Fingerprint Scanning",
-      "rating": "4.1 out of 5 stars",
-      "price": 15499
+      "image": "https://cdn1.smartprix.com/rx-iVyp4t2Vm-w280-h280/apple-iphone-14.webp",
+      "title": "Apple iPhone 14",
+      "price": 67999,
+      "rating": 81,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
     },
     {
       "id": 18,
-      "image": "https://m.media-amazon.com/images/I/61SpA599GgL._AC_UY218_.jpg",
-      "title": "iQOO Z6 5G by vivo (Dynamo Black, 6GB RAM, 128GB Storage) | Snapdragon 695-6nm Processor | 120Hz FHD+ Display | 5000mAh Battery",
-      "rating": "4.0 out of 5 stars",
-      "price": 16499
+      "image": "https://cdn1.smartprix.com/rx-ic5WjAS7G-w280-h280/vivo-t1-5g-6gb-ram-1.webp",
+      "title": "Vivo T1 5G (6GB RAM + 128GB)",
+      "price": 16990,
+      "rating": 80,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
     },
     {
       "id": 19,
-      "image": "https://m.media-amazon.com/images/I/71AWvZMY6LL._AC_UY218_.jpg",
-      "title": "Tecno Spark 8T (Atlantic Blue, 4GB RAM,64GB Storage)| 50MP AI Camera | 7GB Expandable RAM",
-      "rating": "4.1 out of 5 stars",
-      "price": 8499
+      "image": "https://cdn1.smartprix.com/rx-i2KgV4jIM-w280-h280/samsung-galaxy-s20-f.webp",
+      "title": "Samsung Galaxy S20 FE 5G",
+      "price": 29990,
+      "rating": 88,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
     },
     {
       "id": 20,
-      "image": "https://m.media-amazon.com/images/I/71TFnrSIs-L._AC_UY218_.jpg",
-      "title": "Oppo F21s Pro 5G (Starlight Black, 8GB RAM, 128 Storage) with No Cost EMI/Additional Exchange Offers",
-      "rating": "4.0 out of 5 stars",
-      "price": 25999
+      "image": "https://cdn1.smartprix.com/rx-irOItyTHo-w280-h280/xiaomi-redmi-note-12.webp",
+      "title": "Xiaomi Redmi Note 12 Pro Max 5G",
+      "price": 32999,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
     },
     {
       "id": 21,
-      "image": "https://m.media-amazon.com/images/I/81OZGH4fZiL._AC_UY218_.jpg",
-      "title": "Redmi 10 Power (Sporty Orange, 8GB RAM, 128GB Storage)",
-      "rating": "4.1 out of 5 stars",
-      "price": 11499
+      "image": "https://cdn1.smartprix.com/rx-i46QKg8bN-w280-h280/samsung-galaxy-s23-u.webp",
+      "title": "Samsung Galaxy S23 Ultra 5G",
+      "price": 114990,
+      "rating": 93,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
     },
     {
       "id": 22,
-      "image": "https://m.media-amazon.com/images/I/81Bf1rWLA+L._AC_UY218_.jpg",
-      "title": "Samsung Galaxy M53 5G (Emerald Brown, 8GB, 128GB Storage) | 108MP | sAmoled+ 120Hz | 16GB RAM with RAM Plus | Travel Adapter to be Purchased Separately",
-      "rating": "3.9 out of 5 stars",
-      "price": 25999
+      "image": "https://cdn1.smartprix.com/rx-isYn4snKV-w280-h280/realme-10-pro-8gb-ra.webp",
+      "title": "Realme 10 Pro (8GB RAM + 128GB)",
+      "price": 19999,
+      "rating": 84,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 23,
+      "image": "https://cdn1.smartprix.com/rx-isQGrvCAx-w280-h280/oneplus-10r-5g.webp",
+      "title": "OnePlus 10R 5G",
+      "price": 34800,
+      "rating": 86,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 24,
+      "image": "https://cdn1.smartprix.com/rx-ieDYO6q6L-w280-h280/oneplus-11-pro.webp",
+      "title": "OnePlus 11 Pro",
+      "price": 69999,
+      "rating": 90,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 25,
+      "image": "https://cdn1.smartprix.com/rx-iN8MDV9p3-w280-h280/poco-m4-pro-5g-6gb-r.webp",
+      "title": "Poco M4 Pro 5G (6GB RAM + 128GB)",
+      "price": 16999,
+      "rating": 81,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 26,
+      "image": "https://cdn1.smartprix.com/rx-ionLlVVqE-w280-h280/vivo-y16.webp",
+      "title": "Vivo Y16",
+      "price": 9999,
+      "rating": 65,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 27,
+      "image": "https://cdn1.smartprix.com/rx-iDU5m6J3o-w280-h280/vivo-v25-pro-5g.webp",
+      "title": "Vivo V25 Pro 5G",
+      "price": 35999,
+      "rating": 85,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 28,
+      "image": "https://cdn1.smartprix.com/rx-ipco8UdQC-w280-h280/samsung-galaxy-m33-5.webp",
+      "title": "Samsung Galaxy M33 5G",
+      "price": 16499,
+      "rating": 81,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 29,
+      "image": "https://cdn1.smartprix.com/rx-i23Hwk3oU-w280-h280/apple-iphone-11.webp",
+      "title": "Apple iPhone 11",
+      "price": 37999,
+      "rating": 73,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 30,
+      "image": "https://cdn1.smartprix.com/rx-ik4dQaMof-w280-h280/poco-x4-pro-5g.webp",
+      "title": "Poco X4 Pro 5G",
+      "price": 14999,
+      "rating": 80,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 31,
+      "image": "https://cdn1.smartprix.com/rx-iATlwXeDC-w280-h280/xiaomi-redmi-note-11.webp",
+      "title": "Xiaomi Redmi Note 11 Pro Plus 5G",
+      "price": 19999,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 32,
+      "image": "https://cdn1.smartprix.com/rx-izOADfKsq-w280-h280/samsung-galaxy-s22-u.webp",
+      "title": "Samsung Galaxy S22 Ultra 5G",
+      "price": 92799,
+      "rating": 93,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 33,
+      "image": "https://cdn1.smartprix.com/rx-iMke2zmd6-w280-h280/oppo-reno-9-pro-plus.webp",
+      "title": "OPPO Reno 9 Pro Plus",
+      "price": 45999,
+      "rating": 86,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 34,
+      "image": "https://cdn1.smartprix.com/rx-ilZO4tbGN-w280-h280/iqoo-11-5g.webp",
+      "title": "iQOO 11 5G",
+      "price": 59999,
+      "rating": 88,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 35,
+      "image": "https://cdn1.smartprix.com/rx-i5VijaSv1-w280-h280/realme-10.webp",
+      "title": "Realme 10",
+      "price": 13999,
+      "rating": 74,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 36,
+      "image": "https://cdn1.smartprix.com/rx-iJmCSsFBc-w280-h280/motorola-moto-g32.webp",
+      "title": "Motorola Moto G32",
+      "price": 9999,
+      "rating": 75,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 37,
+      "image": "https://cdn1.smartprix.com/rx-iyA8GBwkr-w280-h280/samsung-galaxy-m53-5.webp",
+      "title": "Samsung Galaxy M53 5G",
+      "price": 23890,
+      "rating": 85,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 38,
+      "image": "https://cdn1.smartprix.com/rx-idhfjcQwU-w280-h280/oppo-reno-10-pro-plu.webp",
+      "title": "Oppo Reno 10 Pro Plus",
+      "price": 58990,
+      "rating": 88,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 39,
+      "image": "https://cdn1.smartprix.com/rx-iAiKTp8u4-w280-h280/vivo-y22.webp",
+      "title": "Vivo Y22",
+      "price": 14499,
+      "rating": 72,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 40,
+      "image": "https://cdn1.smartprix.com/rx-iCc6YAZvB-w280-h280/vivo-v25-5g.webp",
+      "title": "Vivo V25 5G",
+      "price": 27999,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 41,
+      "image": "https://cdn1.smartprix.com/rx-iiPiwsnmt-w280-h280/apple-iphone-14-pro.webp",
+      "title": "Apple iPhone 14 Pro Max",
+      "price": 132999,
+      "rating": 76,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 42,
+      "image": "https://cdn1.smartprix.com/rx-i5kbbwc50-w280-h280/realme-10-pro-plus-8.webp",
+      "title": "Realme 10 Pro Plus (8GB RAM + 128GB)",
+      "price": 25999,
+      "rating": 84,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 43,
+      "image": "https://cdn1.smartprix.com/rx-isLGEqE4K-w280-h280/xiaomi-redmi-note-12.webp",
+      "title": "Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB)",
+      "price": 32999,
+      "rating": 87,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 44,
+      "image": "https://cdn1.smartprix.com/rx-iTdUYaGUW-w280-h280/vivo-v26-pro.webp",
+      "title": "Vivo V26 Pro",
+      "price": 42990,
+      "rating": 87,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 45,
+      "image": "https://cdn1.smartprix.com/rx-ihwnbjuas-w280-h280/samsung-galaxy-f23-5.webp",
+      "title": "Samsung Galaxy F23 5G",
+      "price": 13999,
+      "rating": 78,
+      "image2": "https://cdn1.smartprix.com/rx-ircJXXuPY-w32-h32/samsung.webp"
+    },
+    {
+      "id": 46,
+      "image": "https://cdn1.smartprix.com/rx-iEOT0mfEU-w280-h280/motorola-edge-20-fus.webp",
+      "title": "Motorola Edge 20 Fusion 5G",
+      "price": 18999,
+      "rating": 87,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 47,
+      "image": "https://cdn1.smartprix.com/rx-ilcj1LwEx-w280-h280/vivo-y35.webp",
+      "title": "Vivo Y35",
+      "price": 18499,
+      "rating": 80,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 48,
+      "image": "https://cdn1.smartprix.com/rx-iKEsOCAr8-w280-h280/samsung-galaxy-s23.webp",
+      "title": "Samsung Galaxy S23",
+      "price": 70990,
+      "rating": 88,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 49,
+      "image": "https://cdn1.smartprix.com/rx-i2YA0mAvk-w280-h280/motorola-moto-g72-4g.webp",
+      "title": "Motorola Moto G72 4G",
+      "price": 14999,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 50,
+      "image": "https://cdn1.smartprix.com/rx-icUmlqQkR-w280-h280/samsung-galaxy-f13.webp",
+      "title": "Samsung Galaxy F13",
+      "price": 10999,
+      "rating": 74,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 51,
+      "image": "https://cdn1.smartprix.com/rx-i1ovwUq99-w280-h280/xiaomi-redmi-note-11.webp",
+      "title": "Xiaomi Redmi Note 11",
+      "price": 11999,
+      "rating": 76,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 52,
+      "image": "https://cdn1.smartprix.com/rx-iqhUmR3gV-w280-h280/motorola-moto-g82-5g.webp",
+      "title": "Motorola Moto G82 5G",
+      "price": 18999,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 53,
+      "image": "https://cdn1.smartprix.com/rx-iL2UzisFx-w280-h280/oppo-reno-9-5g.webp",
+      "title": "OPPO Reno 9 5G",
+      "price": 28499,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 54,
+      "image": "https://cdn1.smartprix.com/rx-ib4ZdFtpX-w280-h280/xiaomi-redmi-note-10.webp",
+      "title": "Xiaomi Redmi Note 10S",
+      "price": 10999,
+      "rating": 78,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 55,
+      "image": "https://cdn1.smartprix.com/rx-imTeyvN9G-w280-h280/vivo-y16-4gb-ram-64g.webp",
+      "title": "Vivo Y16 (4GB RAM + 64GB)",
+      "price": 12499,
+      "rating": 68,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 56,
+      "image": "https://cdn1.smartprix.com/rx-i7gEhTxnr-w280-h280/realme-narzo-50-pro.webp",
+      "title": "Realme Narzo 50 Pro 5G",
+      "price": 19999,
+      "rating": 81,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 57,
+      "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w280-h280/realme-9i-5g.webp",
+      "title": "Realme 9i 5G",
+      "price": 14945,
+      "rating": 75,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 58,
+      "image": "https://cdn1.smartprix.com/rx-ic85kglZW-w280-h280/samsung-galaxy-a74-5.webp",
+      "title": "Samsung Galaxy A74 5G",
+      "price": 42999,
+      "rating": 90,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 59,
+      "image": "https://cdn1.smartprix.com/rx-iiXHVNUti-w280-h280/vivo-s16-pro.webp",
+      "title": "Vivo S16 Pro",
+      "price": 35499,
+      "rating": 86,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 60,
+      "image": "https://cdn1.smartprix.com/rx-igjlSYJeV-w280-h280/oneplus-nord-ce-2-li.webp",
+      "title": "OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB)",
+      "price": 21999,
+      "rating": 84,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 61,
+      "image": "https://cdn1.smartprix.com/rx-i8dXqSXx3-w280-h280/realme-10-pro-plus-8.webp",
+      "title": "Realme 10 Pro Plus (8GB RAM + 256GB)",
+      "price": 27999,
+      "rating": 85,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 62,
+      "image": "https://cdn1.smartprix.com/rx-im1N8dE6O-w280-h280/iqoo-z6-lite-5g.webp",
+      "title": "iQOO Z6 Lite 5G",
+      "price": 12999,
+      "rating": 75,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 63,
+      "image": "https://cdn1.smartprix.com/rx-ibQpWfEfh-w280-h280/apple-iphone-14-plus.webp",
+      "title": "Apple iPhone 14 Plus",
+      "price": 75999,
+      "rating": 82,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 64,
+      "image": "https://cdn1.smartprix.com/rx-iIa55V4wF-w280-h280/realme-c33.webp",
+      "title": "Realme C33",
+      "price": 8999,
+      "rating": 64,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 65,
+      "image": "https://cdn1.smartprix.com/rx-inElmUh1h-w280-h280/oneplus-nord-ce-3-5g.webp",
+      "title": "OnePlus Nord CE 3 5G",
+      "price": 21999,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 66,
+      "image": "https://cdn1.smartprix.com/rx-iBJmx7ABU-w280-h280/samsung-galaxy-a73-5.webp",
+      "title": "Samsung Galaxy A73 5G",
+      "price": 38439,
+      "rating": 90,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 67,
+      "image": "https://cdn1.smartprix.com/rx-i61hGIvmU-w280-h280/xiaomi-redmi-note-13.webp",
+      "title": "Xiaomi Redmi Note 13 Pro 5G",
+      "price": 17990,
+      "rating": 78,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 68,
+      "image": "https://cdn1.smartprix.com/rx-iEcKNyxrc-w280-h280/oppo-f19-pro-plus-5g.webp",
+      "title": "OPPO F19 Pro Plus 5G",
+      "price": 17990,
+      "rating": 82,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 69,
+      "image": "https://cdn1.smartprix.com/rx-iTcIe7AKK-w280-h280/vivo-y22-6gb-ram-128.webp",
+      "title": "Vivo Y22 (6GB RAM + 128GB)",
+      "price": 16489,
+      "rating": 75,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 70,
+      "image": "https://cdn1.smartprix.com/rx-iyVww7Qyu-w280-h280/poco-m4-pro-5g.webp",
+      "title": "Poco M4 Pro 5G",
+      "price": 13299,
+      "rating": 76,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 71,
+      "image": "https://cdn1.smartprix.com/rx-iiZCizXuF-w280-h280/gionee-g13-pro.webp",
+      "title": "Gionee G13 Pro",
+      "price": 6190,
+      "rating": 56,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 72,
+      "image": "https://cdn1.smartprix.com/rx-ixGDq70wm-w280-h280/vivo-v27.webp",
+      "title": "Vivo V27",
+      "price": 27990,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 73,
+      "image": "https://cdn1.smartprix.com/rx-iZqUJIdl2-w280-h280/xiaomi-redmi-k50i-5g.webp",
+      "title": "Xiaomi Redmi K50i 5G",
+      "price": 21999,
+      "rating": 82,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 74,
+      "image": "https://cdn1.smartprix.com/rx-i0WlpU3oE-w280-h280/oneplus-ace-racing-e.webp",
+      "title": "OnePlus Ace Racing Edition 5G",
+      "price": 22990,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 75,
+      "image": "https://cdn1.smartprix.com/rx-ixH3TGWPr-w280-h280/oneplus-10-pro-5g.webp",
+      "title": "OnePlus 10 Pro 5G",
+      "price": 60999,
+      "rating": 89,
+      "image2": "https://cdn1.smartprix.com/rx-i1jV84HS1-w32-h32/flipkart.webp"
+    },
+    {
+      "id": 76,
+      "image": "https://cdn1.smartprix.com/rx-ivQiMBr6z-w280-h280/realme-9-pro-plus-5g.webp",
+      "title": "Realme 9 Pro Plus 5G",
+      "price": 24990,
+      "rating": 78,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 77,
+      "image": "https://cdn1.smartprix.com/rx-iVHsAJQii-w280-h280/oppo-a58.webp",
+      "title": "OPPO A58",
+      "price": 18990,
+      "rating": 76,
+      "image2": "https://cdn1.smartprix.com/rx-iR2NxBi82-w32-h32/amazon.webp"
+    },
+    {
+      "id": 78,
+      "image": "https://cdn1.smartprix.com/rx-iWmuR1H2w-w280-h280/xiaomi-redmi-note-10.webp",
+      "title": "Xiaomi Redmi Note 10T 5G (6GB RAM +128GB)",
+      "price": 13999,
+      "rating": 79,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 79,
+      "image": "https://cdn1.smartprix.com/rx-iSZ7WoqTz-w280-h280/xiaomi-redmi-note-12.webp",
+      "title": "Xiaomi Redmi Note 12 (6GB RAM + 128GB)",
+      "price": 19999,
+      "rating": 79,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
+    },
+    {
+      "id": 80,
+      "image": "https://cdn1.smartprix.com/rx-i0xyUNjbv-w280-h280/vivo-t1-5g-8gb-ram-1.webp",
+      "title": "Vivo T1 5G (8GB RAM + 128GB)",
+      "price": 19990,
+      "rating": 83,
+      "image2": "https://cdn1.smartprix.com/rx-i4vfi1umq-w32-h32/croma.webp"
     }
   ],
   "Furniture":[
